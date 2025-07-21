@@ -304,6 +304,8 @@ DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,xiaoka.tv
+# AWS rds(因为安全组的原因所以走直连)
+rds.amazonaws.com
 
 # Sohu Sogo
 DOMAIN-SUFFIX,go2map.com
