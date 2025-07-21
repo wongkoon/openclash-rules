@@ -2,6 +2,7 @@
 # AWS rds(因为安全组的原因所以走直连)
 DOMAIN,aurora-db.cxd2mxf0t2tx.us-east-2.rds.amazonaws.com
 DOMAIN-SUFFIX,rds.amazonaws.com
+DOMAIN-KEYWORD,aurora-db
 
 # MyList
 # 域名后缀匹配
